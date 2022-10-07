@@ -1,4 +1,4 @@
-### Olá! Eu sou Pedro Henrique 💻🌐
+### Olá! Eu sou o Pedro Henrique 💻🌐
 
 <br/>
 
