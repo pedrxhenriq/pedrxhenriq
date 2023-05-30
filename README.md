@@ -6,8 +6,6 @@
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phmsilva0402@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrxhenriq_/)
 
-![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrxhenriq&show_icons=true&theme=radical)
-
 ### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br />
