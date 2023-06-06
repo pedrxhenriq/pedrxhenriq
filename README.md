@@ -21,4 +21,6 @@
 
 <br />
 
-Apaixonado por tecnologia, sempre estudando JavaScript e as tecnologias .NET 
+
+
+Apaixonado por tecnologia, cursando Sistemas de Informação e sempre estudando JavaScript e as tecnologias .NET 
